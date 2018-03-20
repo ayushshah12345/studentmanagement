@@ -6,6 +6,7 @@
  */
 package com.f1soft.studentmanagement;
 
+import com.f1soft.studentmanagement.entities.Department;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;

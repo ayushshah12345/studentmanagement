@@ -5,6 +5,8 @@
  */
 package com.f1soft.studentmanagement;
 
+import com.f1soft.studentmanagement.entities.Department;
+import com.f1soft.studentmanagement.entities.Student;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;

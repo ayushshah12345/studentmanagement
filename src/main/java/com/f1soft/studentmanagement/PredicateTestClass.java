@@ -5,6 +5,7 @@
  */
 package com.f1soft.studentmanagement;
 
+import com.f1soft.studentmanagement.entities.Student;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Consumer;

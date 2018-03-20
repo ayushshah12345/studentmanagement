@@ -3,8 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.f1soft.studentmanagement;
+package com.f1soft.studentmanagement.entities;
 
+import com.f1soft.studentmanagement.entities.Student;
 import com.sun.javafx.beans.IDProperty;
 import java.util.List;
 import javax.persistence.Column;

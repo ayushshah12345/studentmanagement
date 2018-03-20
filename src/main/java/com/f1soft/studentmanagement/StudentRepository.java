@@ -5,6 +5,7 @@
  */
 package com.f1soft.studentmanagement;
 
+import com.f1soft.studentmanagement.entities.Student;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**

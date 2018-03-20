@@ -5,6 +5,7 @@
  */
 package com.f1soft.studentmanagement;
 
+import com.f1soft.studentmanagement.entities.Student;
 import static java.util.Collections.list;
 import java.util.List;
 import java.util.function.Predicate;
